@@ -1,0 +1,21 @@
+{
+  "org": {
+    "gatsbyjs": {
+      "common": {
+
+      },
+      "components": {
+
+      },
+      "pages": {
+        "index": {
+          "hi": "Hi people",
+          "to_page_2": "Go to page 2"
+        },
+        "page_2": {
+
+        }
+      }
+    }
+  }
+}
