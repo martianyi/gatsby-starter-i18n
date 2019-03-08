@@ -10,14 +10,14 @@ import SEO from "../components/seo"
 const IndexPage = ({ pageContext: { locale } }) => (
   <Layout locale={locale}>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]}/>
-    <h1><FormattedMessage id="org.massnet.pages.index.hi" /></h1>
+    <h1><FormattedMessage id="org.gatsbyjs.pages.index.hi" /></h1>
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image/>
     </div>
     <LocalizedLink to="/page-2/">
-      <FormattedMessage id="org.massnet.pages.index.to_page_2"/>
+      <FormattedMessage id="org.gatsbyjs.pages.index.to_page_2"/>
     </LocalizedLink>
   </Layout>
 )

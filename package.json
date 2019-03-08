@@ -1,9 +1,9 @@
 {
-  "name": "massnet.org",
+  "name": "gatsbyjs-starter-i18n",
   "private": true,
-  "description": "MASS official website",
+  "description": "Gatsby starter i18n",
   "version": "0.1.0",
-  "author": "Yi Kai <kai.yi@blockinc.cn>",
+  "author": "Yi Kai <beliefs111@gmail.com>",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "flat": "^4.1.0",
@@ -39,9 +39,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.blockinc.cn/mass.one/massnet.org"
+    "url": "https://github.com/martianyi/gatsby-starter-i18n"
   },
   "bugs": {
-    "url": "https://git.blockinc.cn/mass.one/massnet.org/issues"
+    "url": "https://github.com/martianyi/gatsby-starter-i18n/issues"
   }
 }
